@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "155725709011",
+    "project_id": "fir-uygulamas-a889f",
+    "storage_bucket": "fir-uygulamas-a889f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155725709011:android:6a87425eecee27f0ca1e26",
+        "android_client_info": {
+          "package_name": "tr.com.example.firebaseuygulamas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhH1bt7-C152zl-07aNbrIdeq-aSksfok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
